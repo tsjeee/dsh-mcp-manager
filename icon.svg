@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="mcp-mgr-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2e8ed3"/>
+      <stop offset="1" stop-color="#1c6296"/>
+    </linearGradient>
+    <linearGradient id="mcp-mgr-node" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d9ebf9"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="url(#mcp-mgr-bg)"/>
+  <g stroke="#ffffff" stroke-opacity="0.6" stroke-width="2.4" stroke-linecap="round" fill="none">
+    <path d="M32 18L16 46"/>
+    <path d="M32 18L48 46"/>
+    <path d="M16 46H48"/>
+  </g>
+  <circle cx="32" cy="18" r="7" fill="url(#mcp-mgr-node)"/>
+  <circle cx="16" cy="46" r="5.6" fill="url(#mcp-mgr-node)"/>
+  <circle cx="48" cy="46" r="5.6" fill="url(#mcp-mgr-node)"/>
+  <circle cx="32" cy="18" r="2.6" fill="#1c6296"/>
+  <circle cx="16" cy="46" r="2" fill="#247bbf"/>
+  <circle cx="48" cy="46" r="2" fill="#247bbf"/>
+</svg>

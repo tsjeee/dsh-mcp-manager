@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+pnpm-lock.yaml.bak
+
+# logs and caches
+*.log
+.cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# local scratch
+_asar_extract/
+*.local.*

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Better MCP manager",
+    "description": "Manage MCP servers: view, add, annotate, enable or disable, and remove them, and standardize the source note the model adds at the start of replies built from data fetched through MCP tools."
+  }
+}
